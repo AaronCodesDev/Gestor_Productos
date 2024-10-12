@@ -61,7 +61,7 @@ Un gestor de productos sencillo y eficiente, desarrollado en Python utilizando T
 Clona este repositorio:
 
 ```bash
-git clone https://github.com/MrFantan/Gestor_productos.git
+git clone https://github.com/MrFantan/Gestor_Productos.git
 ```
 
 Accede al directorio del proyecto:
