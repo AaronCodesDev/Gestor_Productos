@@ -23,7 +23,6 @@ Un gestor de productos sencillo y eficiente, desarrollado en Python utilizando T
 ---
 
 
-
 ## Capturas de Pantalla
 
 ### Vista Principal
@@ -41,7 +40,6 @@ Un gestor de productos sencillo y eficiente, desarrollado en Python utilizando T
 ### Vista Buscador DB
 
 ![Vista Buscador DB](/assets/buscador_db.png)
-
 
 
 ---
