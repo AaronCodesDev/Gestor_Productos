@@ -19,7 +19,7 @@ Un gestor de productos sencillo y eficiente, desarrollado en Python utilizando T
 ## Próximos updates
 
 - **Añadir que el Stock sea aumentado y decrementado:*** Actualmente tienes que cambiar el Stock en cantidad total.
-- 
+ 
 ---
 
 
