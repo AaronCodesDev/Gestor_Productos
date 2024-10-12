@@ -13,7 +13,6 @@ Un gestor de productos sencillo y eficiente, desarrollado en Python utilizando T
 - **Editar el producto**
 - **Eliminar el producto**
 
-
 ---
 
 ## Próximos updates
@@ -40,7 +39,6 @@ Un gestor de productos sencillo y eficiente, desarrollado en Python utilizando T
 
 ![Vista Buscador DB](/assets/buscador_db.png)
 
-
 ---
 
 ## Stack Tecnológico
@@ -64,7 +62,7 @@ git clone https://github.com/MrFantan/Gestor_Productos.git
 Accede al directorio del proyecto:
 
 ```bash
-cd Gestor_productos
+cd Gestor_Productos
 ```
 
 Crea y activa tu entorno virtual:
