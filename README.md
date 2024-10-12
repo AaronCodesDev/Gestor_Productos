@@ -22,7 +22,6 @@ Un gestor de productos sencillo y eficiente, desarrollado en Python utilizando T
  
 ---
 
-
 ## Capturas de Pantalla
 
 ### Vista Principal
