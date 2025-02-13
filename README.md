@@ -90,7 +90,7 @@ python app.py
 
 ## Autor
 
-- [@MrFantan](https://www.github.com/MrFantan)
+- [@AaronCodesDev](https://www.github.com/AaronCodesDev)
 
 ---
 
